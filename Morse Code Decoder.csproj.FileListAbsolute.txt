@@ -1,0 +1,14 @@
+C:\Users\jawah\source\repos\Morse Code Decoder\Morse Code Decoder\bin\Debug\Morse Code Decoder.exe.config
+C:\Users\jawah\source\repos\Morse Code Decoder\Morse Code Decoder\bin\Debug\Morse Code Decoder.exe
+C:\Users\jawah\source\repos\Morse Code Decoder\Morse Code Decoder\bin\Debug\Morse Code Decoder.pdb
+C:\Users\jawah\source\repos\Morse Code Decoder\Morse Code Decoder\obj\Debug\Morse_Code_Decoder.Form1.resources
+C:\Users\jawah\source\repos\Morse Code Decoder\Morse Code Decoder\obj\Debug\Morse_Code_Decoder.Properties.Resources.resources
+C:\Users\jawah\source\repos\Morse Code Decoder\Morse Code Decoder\obj\Debug\Morse Code Decoder.csproj.GenerateResource.cache
+C:\Users\jawah\source\repos\Morse Code Decoder\Morse Code Decoder\obj\Debug\Morse Code Decoder.csproj.CoreCompileInputs.cache
+C:\Users\jawah\source\repos\Morse Code Decoder\Morse Code Decoder\obj\Debug\Morse Code Decoder.exe
+C:\Users\jawah\source\repos\Morse Code Decoder\Morse Code Decoder\obj\Debug\Morse Code Decoder.pdb
+C:\Users\jawah\source\repos\Morse Code Decoder\Morse Code Decoder\bin\Debug\Morse Code Decoder.exe.manifest
+C:\Users\jawah\source\repos\Morse Code Decoder\Morse Code Decoder\bin\Debug\Morse Code Decoder.application
+C:\Users\jawah\source\repos\Morse Code Decoder\Morse Code Decoder\obj\Debug\Morse Code Decoder.TrustInfo.xml
+C:\Users\jawah\source\repos\Morse Code Decoder\Morse Code Decoder\obj\Debug\Morse Code Decoder.exe.manifest
+C:\Users\jawah\source\repos\Morse Code Decoder\Morse Code Decoder\obj\Debug\Morse Code Decoder.application
